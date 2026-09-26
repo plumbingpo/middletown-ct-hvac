@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://middletownhvacco.com/sitemap.xml
